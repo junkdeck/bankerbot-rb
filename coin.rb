@@ -72,7 +72,4 @@ loop do
   sleep(get_seconds_to_midnight(Time.now))
 end
 
-
-
-
 bot.join()
